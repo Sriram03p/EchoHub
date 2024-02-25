@@ -2,7 +2,9 @@
 
 In the project directory, you can run:
 
-### 'npm install'
+### `cd client`
+
+### `npm install`
 
 ### `npm start`
 
